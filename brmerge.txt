@@ -1,2 +1,8 @@
 Hello merge file
+<<<<<<< HEAD
 This is hotfix
+=======
+New content
+more content
+>>>>>>> iss53
+Some more content

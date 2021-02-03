@@ -1,2 +1,6 @@
 Hello Test file
+<<<<<<< HEAD
 Hello Test file I am in Master Branch
+=======
+Hello Test file I am in testing Branch
+>>>>>>> iss53
