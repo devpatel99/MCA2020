@@ -1,2 +1,3 @@
 Hello merge file
 New content
+more content
